@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RidgySnow
 - 👀 I’m interested in embedde systems, hardware engineering!
-- 🌱 I’m currently learning stm32(on stm32L4)
+- 🌱 I’m currently learning stm32(on stm32L4, stm32G4)
 - 📫 How to reach me: ridgysnow@yandex.ru, https://vk.com/ridgysnow
 
 <!---
